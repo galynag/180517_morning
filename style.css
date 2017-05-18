@@ -1,0 +1,24 @@
+div {
+    width: 480px;
+    height: auto;
+    margin: auto;
+}
+.img-n {
+    width: 100%;
+    height: auto;
+    display: block;
+    transition: all 10s;
+}
+.none-img {
+    display: none;
+}
+#rotate-polzunok {
+    width: 480px;
+    margin: 30px auto;
+    display: block;
+}
+button {
+    width: 80px;
+    height: 30px;
+    margin: 30px auto;
+}
